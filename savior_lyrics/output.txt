@@ -1,0 +1,1060 @@
+============== whatever people say i am, that's what i'm not
+# https://genius.com/Arctic-monkeys-the-view-from-the-afternoon-lyrics
+# https://genius.com/Arctic-monkeys-i-bet-you-look-good-on-the-dancefloor-lyrics
+# https://genius.com/Arctic-monkeys-fake-tales-of-san-francisco-lyrics
+# https://genius.com/Arctic-monkeys-dancing-shoes-lyrics
+# https://genius.com/Arctic-monkeys-you-probably-couldnt-see-for-the-lights-but-you-were-staring-straight-at-me-lyrics
+# https://genius.com/Arctic-monkeys-still-take-you-home-lyrics
+# https://genius.com/Arctic-monkeys-riot-van-lyrics
+# https://genius.com/Arctic-monkeys-red-light-indicates-doors-are-secured-lyrics
+# https://genius.com/Arctic-monkeys-mardy-bum-lyrics
+# https://genius.com/Arctic-monkeys-perhaps-vampires-is-a-bit-strong-but-lyrics
+# https://genius.com/Arctic-monkeys-when-the-sun-goes-down-lyrics
+# https://genius.com/Arctic-monkeys-from-the-ritz-to-the-rubble-lyrics
+# https://genius.com/Arctic-monkeys-a-certain-romance-lyrics
+============== favourite worst nightmare
+# https://genius.com/Arctic-monkeys-brianstorm-lyrics
+# https://genius.com/Arctic-monkeys-teddy-picker-lyrics
+# https://genius.com/Arctic-monkeys-d-is-for-dangerous-lyrics
+# https://genius.com/Arctic-monkeys-balaclava-lyrics
+# https://genius.com/Arctic-monkeys-fluorescent-adolescent-lyrics
+# https://genius.com/Arctic-monkeys-only-ones-who-know-lyrics
+# https://genius.com/Arctic-monkeys-do-me-a-favour-lyrics
+# https://genius.com/Arctic-monkeys-this-house-is-a-circus-lyrics
+# https://genius.com/Arctic-monkeys-if-you-were-there-beware-lyrics
+# https://genius.com/Arctic-monkeys-the-bad-thing-lyrics
+# https://genius.com/Arctic-monkeys-old-yellow-bricks-lyrics
+# https://genius.com/Arctic-monkeys-505-lyrics
+============== humbug
+# https://genius.com/Arctic-monkeys-my-propeller-lyrics
+# https://genius.com/Arctic-monkeys-crying-lightning-lyrics
+# https://genius.com/Arctic-monkeys-dangerous-animals-lyrics
+# https://genius.com/Arctic-monkeys-secret-door-lyrics
+# https://genius.com/Arctic-monkeys-potion-approaching-lyrics
+# https://genius.com/Arctic-monkeys-fire-and-the-thud-lyrics
+# https://genius.com/Arctic-monkeys-cornerstone-lyrics
+# https://genius.com/Arctic-monkeys-dance-little-liar-lyrics
+# https://genius.com/Arctic-monkeys-pretty-visitors-lyrics
+# https://genius.com/Arctic-monkeys-the-jewellers-hands-lyrics
+============== suck it and see
+# https://genius.com/Arctic-monkeys-shes-thunderstorms-lyrics
+# https://genius.com/Arctic-monkeys-black-treacle-lyrics
+# https://genius.com/Arctic-monkeys-brick-by-brick-lyrics
+# https://genius.com/Arctic-monkeys-the-hellcat-spangled-shalalala-lyrics
+# https://genius.com/Arctic-monkeys-dont-sit-down-cause-ive-moved-your-chair-lyrics
+# https://genius.com/Arctic-monkeys-library-pictures-lyrics
+# https://genius.com/Arctic-monkeys-all-my-own-stunts-lyrics
+# https://genius.com/Arctic-monkeys-reckless-serenade-lyrics
+# https://genius.com/Arctic-monkeys-piledriver-waltz-lyrics
+# https://genius.com/Arctic-monkeys-love-is-a-laserquest-lyrics
+# https://genius.com/Arctic-monkeys-suck-it-and-see-lyrics
+# https://genius.com/Arctic-monkeys-thats-where-youre-wrong-lyrics
+============== am
+# https://genius.com/Arctic-monkeys-do-i-wanna-know-lyrics
+# https://genius.com/Arctic-monkeys-r-u-mine-lyrics
+# https://genius.com/Arctic-monkeys-one-for-the-road-lyrics
+# https://genius.com/Arctic-monkeys-arabella-lyrics
+# https://genius.com/Arctic-monkeys-i-want-it-all-lyrics
+# https://genius.com/Arctic-monkeys-no-1-party-anthem-lyrics
+# https://genius.com/Arctic-monkeys-mad-sounds-lyrics
+# https://genius.com/Arctic-monkeys-fireside-lyrics
+# https://genius.com/Arctic-monkeys-whyd-you-only-call-me-when-youre-high-lyrics
+# https://genius.com/Arctic-monkeys-snap-out-of-it-lyrics
+# https://genius.com/Arctic-monkeys-knee-socks-lyrics
+# https://genius.com/Arctic-monkeys-i-wanna-be-yours-lyrics
+============== tranquility base hotel & casino
+# https://genius.com/Arctic-monkeys-star-treatment-lyrics
+# https://genius.com/Arctic-monkeys-one-point-perspective-lyrics
+# https://genius.com/Arctic-monkeys-american-sports-lyrics
+# https://genius.com/Arctic-monkeys-tranquility-base-hotel--casino-lyrics
+Traceback (most recent call last):
+  File "c:/Users/D/Desktop/D/R.py", line 349, in <module>
+    scrape_lyrics(artist, albums)
+  File "c:/Users/D/Desktop/D/R.py", line 321, in scrape_lyrics
+    response.raise_for_status()
+  File "C:\Users\D\AppData\Roaming\Python\Python38\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://genius.com/Arctic-monkeys-tranquility-base-hotel--casino-lyrics
+PS C:\Users\D\Desktop\D> & "C:/Program Files/Python38/python.exe" c:/Users/D/Desktop/D/R.py
+============== whatever people say i am, that's what i'm not
+# https://genius.com/Arctic-monkeys-the-view-from-the-afternoon-lyrics
+# https://genius.com/Arctic-monkeys-i-bet-you-look-good-on-the-dancefloor-lyrics
+# https://genius.com/Arctic-monkeys-fake-tales-of-san-francisco-lyrics
+# https://genius.com/Arctic-monkeys-dancing-shoes-lyrics
+# https://genius.com/Arctic-monkeys-you-probably-couldnt-see-for-the-lights-but-you-were-staring-straight-at-me-lyrics
+# https://genius.com/Arctic-monkeys-still-take-you-home-lyrics
+# https://genius.com/Arctic-monkeys-riot-van-lyrics
+# https://genius.com/Arctic-monkeys-red-light-indicates-doors-are-secured-lyrics
+# https://genius.com/Arctic-monkeys-mardy-bum-lyrics
+# https://genius.com/Arctic-monkeys-perhaps-vampires-is-a-bit-strong-but-lyrics
+# https://genius.com/Arctic-monkeys-when-the-sun-goes-down-lyrics
+# https://genius.com/Arctic-monkeys-from-the-ritz-to-the-rubble-lyrics
+# https://genius.com/Arctic-monkeys-a-certain-romance-lyrics
+============== favourite worst nightmare
+# https://genius.com/Arctic-monkeys-brianstorm-lyrics
+# https://genius.com/Arctic-monkeys-teddy-picker-lyrics
+# https://genius.com/Arctic-monkeys-d-is-for-dangerous-lyrics
+# https://genius.com/Arctic-monkeys-balaclava-lyrics
+# https://genius.com/Arctic-monkeys-fluorescent-adolescent-lyrics
+# https://genius.com/Arctic-monkeys-only-ones-who-know-lyrics
+# https://genius.com/Arctic-monkeys-do-me-a-favour-lyrics
+# https://genius.com/Arctic-monkeys-this-house-is-a-circus-lyrics
+# https://genius.com/Arctic-monkeys-if-you-were-there-beware-lyrics
+# https://genius.com/Arctic-monkeys-the-bad-thing-lyrics
+# https://genius.com/Arctic-monkeys-old-yellow-bricks-lyrics
+# https://genius.com/Arctic-monkeys-505-lyrics
+============== humbug
+# https://genius.com/Arctic-monkeys-my-propeller-lyrics
+# https://genius.com/Arctic-monkeys-crying-lightning-lyrics
+# https://genius.com/Arctic-monkeys-dangerous-animals-lyrics
+# https://genius.com/Arctic-monkeys-secret-door-lyrics
+# https://genius.com/Arctic-monkeys-potion-approaching-lyrics
+# https://genius.com/Arctic-monkeys-fire-and-the-thud-lyrics
+# https://genius.com/Arctic-monkeys-cornerstone-lyrics
+# https://genius.com/Arctic-monkeys-dance-little-liar-lyrics
+# https://genius.com/Arctic-monkeys-pretty-visitors-lyrics
+# https://genius.com/Arctic-monkeys-the-jewellers-hands-lyrics
+============== suck it and see
+# https://genius.com/Arctic-monkeys-shes-thunderstorms-lyrics
+# https://genius.com/Arctic-monkeys-black-treacle-lyrics
+# https://genius.com/Arctic-monkeys-brick-by-brick-lyrics
+# https://genius.com/Arctic-monkeys-the-hellcat-spangled-shalalala-lyrics
+# https://genius.com/Arctic-monkeys-dont-sit-down-cause-ive-moved-your-chair-lyrics
+# https://genius.com/Arctic-monkeys-library-pictures-lyrics
+# https://genius.com/Arctic-monkeys-all-my-own-stunts-lyrics
+# https://genius.com/Arctic-monkeys-reckless-serenade-lyrics
+# https://genius.com/Arctic-monkeys-piledriver-waltz-lyrics
+# https://genius.com/Arctic-monkeys-love-is-a-laserquest-lyrics
+# https://genius.com/Arctic-monkeys-suck-it-and-see-lyrics
+# https://genius.com/Arctic-monkeys-thats-where-youre-wrong-lyrics
+============== am
+# https://genius.com/Arctic-monkeys-do-i-wanna-know-lyrics
+# https://genius.com/Arctic-monkeys-r-u-mine-lyrics
+# https://genius.com/Arctic-monkeys-one-for-the-road-lyrics
+# https://genius.com/Arctic-monkeys-arabella-lyrics
+# https://genius.com/Arctic-monkeys-i-want-it-all-lyrics
+# https://genius.com/Arctic-monkeys-no-1-party-anthem-lyrics
+# https://genius.com/Arctic-monkeys-mad-sounds-lyrics
+# https://genius.com/Arctic-monkeys-fireside-lyrics
+# https://genius.com/Arctic-monkeys-whyd-you-only-call-me-when-youre-high-lyrics
+# https://genius.com/Arctic-monkeys-snap-out-of-it-lyrics
+# https://genius.com/Arctic-monkeys-knee-socks-lyrics
+# https://genius.com/Arctic-monkeys-i-wanna-be-yours-lyrics
+============== tranquility base hotel & casino
+# https://genius.com/Arctic-monkeys-star-treatment-lyrics
+# https://genius.com/Arctic-monkeys-one-point-perspective-lyrics
+# https://genius.com/Arctic-monkeys-american-sports-lyrics
+# https://genius.com/Arctic-monkeys-tranquility-base-hotel-and-casino-lyrics
+# https://genius.com/Arctic-monkeys-golden-trunks-lyrics
+# https://genius.com/Arctic-monkeys-four-out-of-five-lyrics
+# https://genius.com/Arctic-monkeys-the-worlds-first-ever-monster-truck-front-flip-lyrics
+# https://genius.com/Arctic-monkeys-science-fiction-lyrics
+# https://genius.com/Arctic-monkeys-she-looks-like-fun-lyrics
+# https://genius.com/Arctic-monkeys-batphone-lyrics
+# https://genius.com/Arctic-monkeys-the-ultracheese-lyrics
+============== the car
+# https://genius.com/Arctic-monkeys-thered-better-be-a-mirrorball-lyrics
+# https://genius.com/Arctic-monkeys-i-aint-quite-where-i-think-i-am-lyrics
+# https://genius.com/Arctic-monkeys-sculptures-of-anything-goes-lyrics
+# https://genius.com/Arctic-monkeys-jet-skis-on-the-moat-lyrics
+# https://genius.com/Arctic-monkeys-body-paint-lyrics
+# https://genius.com/Arctic-monkeys-the-car-lyrics
+# https://genius.com/Arctic-monkeys-big-ideas-lyrics
+# https://genius.com/Arctic-monkeys-hello-you-lyrics
+# https://genius.com/Arctic-monkeys-mr-schwartz-lyrics
+# https://genius.com/Arctic-monkeys-perfect-sense-lyrics
+============== singles
+# https://genius.com/Arctic-monkeys-leave-before-the-lights-come-on-lyrics
+Failed to retrieve the webpage. https://genius.com/Arctic-monkeys-matador--da-frame-2r-lyrics
+@ https://genius.com/Arctic-monkeys-matador--da-frame-2r-lyrics
+404 Client Error: Not Found for url: https://genius.com/Arctic-monkeys-matador--da-frame-2r-lyrics
+# https://genius.com/Arctic-monkeys-matador--da-frame-2r-lyrics
+# https://genius.com/Arctic-monkeys-opening-night-lyrics
+============== thank me later
+# https://genius.com/Drake-fireworks-lyrics
+# https://genius.com/Drake-karaoke-lyrics
+# https://genius.com/Drake-the-resistance-lyrics
+# https://genius.com/Drake-over-lyrics
+# https://genius.com/Drake-show-me-a-good-time-lyrics
+# https://genius.com/Drake-up-all-night-lyrics
+# https://genius.com/Drake-fancy-lyrics
+# https://genius.com/Drake-shut-it-down-lyrics
+# https://genius.com/Drake-unforgettable-lyrics
+# https://genius.com/Drake-light-up-lyrics
+# https://genius.com/Drake-miss-me-lyrics
+# https://genius.com/Drake-ceces-interlude-lyrics
+# https://genius.com/Drake-find-your-love-lyrics
+# https://genius.com/Drake-thank-me-now-lyrics
+============== take care
+# https://genius.com/Drake-over-my-dead-body-lyrics
+# https://genius.com/Drake-shot-for-me-lyrics
+# https://genius.com/Drake-headlines-lyrics
+# https://genius.com/Drake-crew-love-lyrics
+# https://genius.com/Drake-take-care-lyrics
+# https://genius.com/Drake-marvins-room-lyrics
+# https://genius.com/Drake-buried-alive-interlude-lyrics
+# https://genius.com/Drake-under-ground-kings-lyrics
+# https://genius.com/Drake-well-be-fine-lyrics
+# https://genius.com/Drake-make-me-proud-lyrics
+# https://genius.com/Drake-lord-knows-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-cameras--good-ones-go-interlude-lyrics
+@ https://genius.com/Drake-cameras--good-ones-go-interlude-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-cameras--good-ones-go-interlude-lyrics
+# https://genius.com/Drake-cameras--good-ones-go-interlude-lyrics
+# https://genius.com/Drake-doing-it-wrong-lyrics
+# https://genius.com/Drake-the-real-her-lyrics
+# https://genius.com/Drake-look-what-youve-done-lyrics
+# https://genius.com/Drake-hyfr-lyrics
+# https://genius.com/Drake-practice-lyrics
+# https://genius.com/Drake-the-ride-lyrics
+============== nothing was the same
+# https://genius.com/Drake-tuscan-leather-lyrics
+# https://genius.com/Drake-furthest-thing-lyrics
+# https://genius.com/Drake-started-from-the-bottom-lyrics
+# https://genius.com/Drake-wu-tang-forever-lyrics
+# https://genius.com/Drake-own-it-lyrics
+# https://genius.com/Drake-worst-behavior-lyrics
+# https://genius.com/Drake-from-time-lyrics
+# https://genius.com/Drake-hold-on-were-going-home-lyrics
+# https://genius.com/Drake-connect-lyrics
+# https://genius.com/Drake-the-language-lyrics
+# https://genius.com/Drake-305-to-my-city-lyrics
+# https://genius.com/Drake-too-much-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-pound-cake--paris-morton-music-2-lyrics
+@ https://genius.com/Drake-pound-cake--paris-morton-music-2-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-pound-cake--paris-morton-music-2-lyrics
+# https://genius.com/Drake-pound-cake--paris-morton-music-2-lyrics
+============== views
+# https://genius.com/Drake-keep-the-family-close-lyrics
+# https://genius.com/Drake-9-lyrics
+# https://genius.com/Drake-u-with-me-lyrics
+# https://genius.com/Drake-feel-no-ways-lyrics
+# https://genius.com/Drake-hype-lyrics
+# https://genius.com/Drake-weston-road-flows-lyrics
+# https://genius.com/Drake-redemption-lyrics
+# https://genius.com/Drake-with-you-lyrics
+# https://genius.com/Drake-faithful-lyrics
+# https://genius.com/Drake-still-here-lyrics
+# https://genius.com/Drake-controlla-lyrics
+# https://genius.com/Drake-one-dance-lyrics
+# https://genius.com/Drake-grammys-lyrics
+# https://genius.com/Drake-childs-play-lyrics
+# https://genius.com/Drake-pop-style-lyrics
+# https://genius.com/Drake-too-good-lyrics
+# https://genius.com/Drake-summers-over-interlude-lyrics
+# https://genius.com/Drake-fire-and-desire-lyrics
+# https://genius.com/Drake-views-lyrics
+# https://genius.com/Drake-hotline-bling-lyrics
+============== scorpion
+# https://genius.com/Drake-survival-lyrics
+# https://genius.com/Drake-nonstop-lyrics
+# https://genius.com/Drake-elevate-lyrics
+# https://genius.com/Drake-emotionless-lyrics
+# https://genius.com/Drake-gods-plan-lyrics
+# https://genius.com/Drake-im-upset-lyrics
+# https://genius.com/Drake-8-out-of-10-lyrics
+# https://genius.com/Drake-mob-ties-lyrics
+# https://genius.com/Drake-cant-take-a-joke-lyrics
+# https://genius.com/Drake-sandras-rose-lyrics
+# https://genius.com/Drake-talk-up-lyrics
+# https://genius.com/Drake-is-there-more-lyrics
+# https://genius.com/Drake-peak-lyrics
+# https://genius.com/Drake-summer-games-lyrics
+# https://genius.com/Drake-jaded-lyrics
+# https://genius.com/Drake-nice-for-what-lyrics
+# https://genius.com/Drake-finesse-lyrics
+# https://genius.com/Drake-ratchet-happy-birthday-lyrics
+# https://genius.com/Drake-thats-how-you-feel-lyrics
+# https://genius.com/Drake-blue-tint-lyrics
+# https://genius.com/Drake-in-my-feelings-lyrics
+# https://genius.com/Drake-after-dark-lyrics
+# https://genius.com/Drake-final-fantasy-lyrics
+# https://genius.com/Drake-march-14-lyrics
+============== certified lover boy
+# https://genius.com/Drake-champagne-poetry-lyrics
+# https://genius.com/Drake-papis-home-lyrics
+# https://genius.com/Drake-girls-want-girls-lyrics
+# https://genius.com/Drake-in-the-bible-lyrics
+# https://genius.com/Drake-love-all-lyrics
+# https://genius.com/Drake-fair-trade-lyrics
+# https://genius.com/Drake-way-2-sexy-lyrics
+# https://genius.com/Drake-tsu-lyrics
+# https://genius.com/Drake-n-2-deep-lyrics
+# https://genius.com/Drake-pipe-down-lyrics
+# https://genius.com/Drake-yebbas-heartbreak-lyrics
+# https://genius.com/Drake-no-friends-in-the-industry-lyrics
+# https://genius.com/Drake-knife-talk-lyrics
+# https://genius.com/Drake-7am-on-bridle-path-lyrics
+# https://genius.com/Drake-race-my-mind-lyrics
+# https://genius.com/Drake-fountains-lyrics
+# https://genius.com/Drake-get-along-better-lyrics
+# https://genius.com/Drake-you-only-live-twice-lyrics
+# https://genius.com/Drake-imy2-lyrics
+# https://genius.com/Drake-fucking-fans-lyrics
+# https://genius.com/Drake-the-remorse-lyrics
+============== honestly, nevermind
+# https://genius.com/Drake-intro-lyrics
+# https://genius.com/Drake-falling-back-lyrics
+# https://genius.com/Drake-texts-go-green-lyrics
+# https://genius.com/Drake-currents-lyrics
+# https://genius.com/Drake-a-keeper-lyrics
+# https://genius.com/Drake-calling-my-name-lyrics
+# https://genius.com/Drake-sticky-lyrics
+# https://genius.com/Drake-massive-lyrics
+# https://genius.com/Drake-flights-booked-lyrics
+# https://genius.com/Drake-overdrive-lyrics
+# https://genius.com/Drake-down-hill-lyrics
+# https://genius.com/Drake-tie-that-binds-lyrics
+# https://genius.com/Drake-liability-lyrics
+# https://genius.com/Drake-jimmy-cooks-lyrics
+============== her loss
+Failed to retrieve the webpage. https://genius.com/Drake-rich-flex-lyrics
+@ https://genius.com/Drake-rich-flex-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-rich-flex-lyrics
+# https://genius.com/Drake-rich-flex-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-major-distribution-lyrics
+@ https://genius.com/Drake-major-distribution-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-major-distribution-lyrics
+# https://genius.com/Drake-major-distribution-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-on-bs-lyrics
+@ https://genius.com/Drake-on-bs-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-on-bs-lyrics
+# https://genius.com/Drake-on-bs-lyrics
+# https://genius.com/Drake-backoutsideboyz-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-privileged-rappers-lyrics
+@ https://genius.com/Drake-privileged-rappers-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-privileged-rappers-lyrics
+# https://genius.com/Drake-privileged-rappers-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-spin-bout-u-lyrics
+@ https://genius.com/Drake-spin-bout-u-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-spin-bout-u-lyrics
+# https://genius.com/Drake-spin-bout-u-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-hours-in-silence-lyrics
+@ https://genius.com/Drake-hours-in-silence-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-hours-in-silence-lyrics
+# https://genius.com/Drake-hours-in-silence-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-treacherous-twins-lyrics
+@ https://genius.com/Drake-treacherous-twins-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-treacherous-twins-lyrics
+# https://genius.com/Drake-treacherous-twins-lyrics
+# https://genius.com/Drake-circo-loco-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-pussy-and-millions-lyrics
+@ https://genius.com/Drake-pussy-and-millions-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-pussy-and-millions-lyrics
+# https://genius.com/Drake-pussy-and-millions-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-broke-boys-lyrics
+@ https://genius.com/Drake-broke-boys-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-broke-boys-lyrics
+# https://genius.com/Drake-broke-boys-lyrics
+# https://genius.com/Drake-middle-of-the-ocean-lyrics
+# https://genius.com/Drake-jumbotron-shit-poppin-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-more-ms-lyrics
+@ https://genius.com/Drake-more-ms-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-more-ms-lyrics
+# https://genius.com/Drake-more-ms-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-3am-on-glenwood-lyrics
+@ https://genius.com/Drake-3am-on-glenwood-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-3am-on-glenwood-lyrics
+# https://genius.com/Drake-3am-on-glenwood-lyrics
+# https://genius.com/Drake-i-guess-its-fuck-me-lyrics
+============== for all the dogs
+# https://genius.com/Drake-virginia-beach-lyrics
+# https://genius.com/Drake-amen-lyrics
+# https://genius.com/Drake-calling-for-you-lyrics
+# https://genius.com/Drake-fear-of-heights-lyrics
+# https://genius.com/Drake-daylight-lyrics
+# https://genius.com/Drake-first-person-shooter-lyrics
+# https://genius.com/Drake-idgaf-lyrics
+# https://genius.com/Drake-7969-santa-lyrics
+# https://genius.com/Drake-slime-you-out-lyrics
+# https://genius.com/Drake-bahamas-promises-lyrics
+# https://genius.com/Drake-tried-our-best-lyrics
+# https://genius.com/Drake-drew-a-picasso-lyrics
+# https://genius.com/Drake-members-only-lyrics
+# https://genius.com/Drake-what-would-pluto-do-lyrics
+# https://genius.com/Drake-all-the-parties-lyrics
+# https://genius.com/Drake-8am-in-charlotte-lyrics
+# https://genius.com/Drake-bbl-love-interlude-lyrics
+# https://genius.com/Drake-another-late-night-lyrics
+# https://genius.com/Drake-away-from-home-lyrics
+# https://genius.com/Drake-polar-opposites-lyrics
+============== $ome $exy $ongs 4 u
+Failed to retrieve the webpage. https://genius.com/Drake-somebody-loves-me-lyrics
+@ https://genius.com/Drake-somebody-loves-me-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-somebody-loves-me-lyrics
+# https://genius.com/Drake-somebody-loves-me-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-die-trying-lyrics
+@ https://genius.com/Drake-die-trying-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-die-trying-lyrics
+# https://genius.com/Drake-die-trying-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g-lyrics
+@ https://genius.com/Drake-m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g-lyrics
+# https://genius.com/Drake-m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-n-o-c-h-i-l-l-lyrics
+@ https://genius.com/Drake-n-o-c-h-i-l-l-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-n-o-c-h-i-l-l-lyrics
+# https://genius.com/Drake-n-o-c-h-i-l-l-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-her-old-friends-lyrics
+@ https://genius.com/Drake-her-old-friends-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-her-old-friends-lyrics
+# https://genius.com/Drake-her-old-friends-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-resentment-lyrics
+@ https://genius.com/Drake-resentment-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-resentment-lyrics
+# https://genius.com/Drake-resentment-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-real-woman-lyrics
+@ https://genius.com/Drake-real-woman-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-real-woman-lyrics
+# https://genius.com/Drake-real-woman-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-lose-my-mind-lyrics
+@ https://genius.com/Drake-lose-my-mind-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-lose-my-mind-lyrics
+# https://genius.com/Drake-lose-my-mind-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-dreamin-lyrics
+@ https://genius.com/Drake-dreamin-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-dreamin-lyrics
+# https://genius.com/Drake-dreamin-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-control-lyrics
+@ https://genius.com/Drake-control-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-control-lyrics
+# https://genius.com/Drake-control-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-cheers-lyrics
+@ https://genius.com/Drake-cheers-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-cheers-lyrics
+# https://genius.com/Drake-cheers-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-for-certain-lyrics
+@ https://genius.com/Drake-for-certain-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-for-certain-lyrics
+# https://genius.com/Drake-for-certain-lyrics
+# https://genius.com/Drake-cn-tower-lyrics
+# https://genius.com/Drake-moth-balls-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-something-about-you-lyrics
+@ https://genius.com/Drake-something-about-you-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-something-about-you-lyrics
+# https://genius.com/Drake-something-about-you-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-spider-man-superman-lyrics
+@ https://genius.com/Drake-spider-man-superman-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-spider-man-superman-lyrics
+# https://genius.com/Drake-spider-man-superman-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-deeper-lyrics
+@ https://genius.com/Drake-deeper-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-deeper-lyrics
+# https://genius.com/Drake-deeper-lyrics
+# https://genius.com/Drake-pimmies-dilemma-lyrics
+# https://genius.com/Drake-lasers-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-meet-your-padre-lyrics
+@ https://genius.com/Drake-meet-your-padre-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-meet-your-padre-lyrics
+# https://genius.com/Drake-meet-your-padre-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-celibacy-lyrics
+@ https://genius.com/Drake-celibacy-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-celibacy-lyrics
+# https://genius.com/Drake-celibacy-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-omw-lyrics
+@ https://genius.com/Drake-omw-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-omw-lyrics
+# https://genius.com/Drake-omw-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-glorious-lyrics
+@ https://genius.com/Drake-glorious-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-glorious-lyrics
+# https://genius.com/Drake-glorious-lyrics
+Failed to retrieve the webpage. https://genius.com/Drake-when-hes-gone-lyrics
+@ https://genius.com/Drake-when-hes-gone-lyrics
+404 Client Error: Not Found for url: https://genius.com/Drake-when-hes-gone-lyrics
+# https://genius.com/Drake-when-hes-gone-lyrics
+# https://genius.com/Drake-greedy-lyrics
+============== iceman
+============== singles
+# https://genius.com/Drake-toosie-slide-lyrics
+# https://genius.com/Drake-laugh-now-cry-later-lyrics
+# https://genius.com/Drake-whats-next-lyrics
+# https://genius.com/Drake-push-ups-lyrics
+# https://genius.com/Drake-taylor-made-freestyle-lyrics
+# https://genius.com/Drake-family-matters-lyrics
+# https://genius.com/Drake-the-heart-part-6-lyrics
+# https://genius.com/Drake-its-up-lyrics
+# https://genius.com/Drake-what-did-i-miss-lyrics
+============== partynextdoor
+# https://genius.com/Partynextdoor-wild-bitches-lyrics
+# https://genius.com/Partynextdoor-relax-with-me-lyrics
+# https://genius.com/Partynextdoor-right-now-lyrics
+# https://genius.com/Partynextdoor-welcome-to-the-party-lyrics
+# https://genius.com/Partynextdoor-muse-lyrics
+# https://genius.com/Partynextdoor-candy-lyrics
+# https://genius.com/Partynextdoor-break-from-toronto-lyrics
+# https://genius.com/Partynextdoor-tbh-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-wus-good--curious-lyrics
+@ https://genius.com/Partynextdoor-wus-good--curious-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-wus-good--curious-lyrics
+# https://genius.com/Partynextdoor-wus-good--curious-lyrics
+# https://genius.com/Partynextdoor-over-here-lyrics
+============== partynextdoor two
+# https://genius.com/Partynextdoor-recognize-lyrics
+# https://genius.com/Partynextdoor-sex-on-the-beach-lyrics
+# https://genius.com/Partynextdoor-east-liberty-lyrics
+# https://genius.com/Partynextdoor-thirsty-lyrics
+# https://genius.com/Partynextdoor-1942-lyrics
+# https://genius.com/Partynextdoor-belong-to-the-city-lyrics
+# https://genius.com/Partynextdoor-fwu-lyrics
+# https://genius.com/Partynextdoor-freak-in-you-lyrics
+# https://genius.com/Partynextdoor-break-from-toronto-lyrics
+# https://genius.com/Partynextdoor-tbh-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-wus-goodcurious-lyrics
+@ https://genius.com/Partynextdoor-wus-goodcurious-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-wus-goodcurious-lyrics
+# https://genius.com/Partynextdoor-wus-goodcurious-lyrics
+============== partynextdoor 3
+# https://genius.com/Partynextdoor-high-hopes-lyrics
+# https://genius.com/Partynextdoor-nobody-lyrics
+# https://genius.com/Partynextdoor-not-nice-lyrics
+# https://genius.com/Partynextdoor-only-u-lyrics
+# https://genius.com/Partynextdoor-dont-know-how-lyrics
+# https://genius.com/Partynextdoor-problems-and-selfless-lyrics
+# https://genius.com/Partynextdoor-temptations-lyrics
+# https://genius.com/Partynextdoor-spiteful-lyrics
+# https://genius.com/Partynextdoor-joy-lyrics
+# https://genius.com/Partynextdoor-youve-been-missed-lyrics
+# https://genius.com/Partynextdoor-transparency-lyrics
+# https://genius.com/Partynextdoor-brown-skin-lyrics
+# https://genius.com/Partynextdoor-1942-lyrics
+# https://genius.com/Partynextdoor-come-and-see-me-lyrics
+# https://genius.com/Partynextdoor-nothing-easy-to-please-lyrics
+# https://genius.com/Partynextdoor-sex-with-me-lyrics
+============== partymobile
+# https://genius.com/Partynextdoor-nothing-less-lyrics
+# https://genius.com/Partynextdoor-turn-up-lyrics
+# https://genius.com/Partynextdoor-the-news-lyrics
+# https://genius.com/Partynextdoor-split-decision-lyrics
+# https://genius.com/Partynextdoor-loyal-lyrics
+# https://genius.com/Partynextdoor-savage-anthem-lyrics
+# https://genius.com/Partynextdoor-loyal-remix-lyrics
+# https://genius.com/Partynextdoor-pgt-lyrics
+# https://genius.com/Partynextdoor-another-day-lyrics
+# https://genius.com/Partynextdoor-trauma-lyrics
+# https://genius.com/Partynextdoor-showing-you-lyrics
+# https://genius.com/Partynextdoor-eye-on-it-lyrics
+# https://genius.com/Partynextdoor-believe-it-lyrics
+# https://genius.com/Partynextdoor-never-again-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-pgt-remix-lyrics
+@ https://genius.com/Partynextdoor-pgt-remix-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-pgt-remix-lyrics
+# https://genius.com/Partynextdoor-pgt-remix-lyrics
+============== partynextdoor 4
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-control-lyrics
+@ https://genius.com/Partynextdoor-control-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-control-lyrics
+# https://genius.com/Partynextdoor-control-lyrics
+# https://genius.com/Partynextdoor-lose-my-mind-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-cheers-lyrics
+@ https://genius.com/Partynextdoor-cheers-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-cheers-lyrics
+# https://genius.com/Partynextdoor-cheers-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-make-it-to-the-morning-lyrics
+@ https://genius.com/Partynextdoor-make-it-to-the-morning-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-make-it-to-the-morning-lyrics
+# https://genius.com/Partynextdoor-make-it-to-the-morning-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-no-chill-lyrics
+@ https://genius.com/Partynextdoor-no-chill-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-no-chill-lyrics
+# https://genius.com/Partynextdoor-no-chill-lyrics
+# https://genius.com/Partynextdoor-her-old-friends-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-the-retreat-lyrics
+@ https://genius.com/Partynextdoor-the-retreat-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-the-retreat-lyrics
+# https://genius.com/Partynextdoor-the-retreat-lyrics
+# https://genius.com/Partynextdoor-resentment-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-family-lyrics
+@ https://genius.com/Partynextdoor-family-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-family-lyrics
+# https://genius.com/Partynextdoor-family-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-real-woman-lyrics
+@ https://genius.com/Partynextdoor-real-woman-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-real-woman-lyrics
+# https://genius.com/Partynextdoor-real-woman-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-l-o-s-e-m-y-m-i-n-d-remix-lyrics
+@ https://genius.com/Partynextdoor-l-o-s-e-m-y-m-i-n-d-remix-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-l-o-s-e-m-y-m-i-n-d-remix-lyrics
+# https://genius.com/Partynextdoor-l-o-s-e-m-y-m-i-n-d-remix-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-sorry-but-not-sorry-lyrics
+@ https://genius.com/Partynextdoor-sorry-but-not-sorry-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-sorry-but-not-sorry-lyrics
+# https://genius.com/Partynextdoor-sorry-but-not-sorry-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-for-certain-lyrics
+@ https://genius.com/Partynextdoor-for-certain-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-for-certain-lyrics
+# https://genius.com/Partynextdoor-for-certain-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-stamina-lyrics
+@ https://genius.com/Partynextdoor-stamina-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-stamina-lyrics
+# https://genius.com/Partynextdoor-stamina-lyrics
+============== $ome $exy $ongs 4 u
+# https://genius.com/Partynextdoor-her-old-friends-lyrics
+# https://genius.com/Partynextdoor-resentment-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-real-woman-lyrics
+@ https://genius.com/Partynextdoor-real-woman-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-real-woman-lyrics
+# https://genius.com/Partynextdoor-real-woman-lyrics
+# https://genius.com/Partynextdoor-lose-my-mind-lyrics
+# https://genius.com/Partynextdoor-dreamin-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-control-lyrics
+@ https://genius.com/Partynextdoor-control-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-control-lyrics
+# https://genius.com/Partynextdoor-control-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-cheers-lyrics
+@ https://genius.com/Partynextdoor-cheers-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-cheers-lyrics
+# https://genius.com/Partynextdoor-cheers-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-make-it-to-the-morning-lyrics
+@ https://genius.com/Partynextdoor-make-it-to-the-morning-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-make-it-to-the-morning-lyrics
+# https://genius.com/Partynextdoor-make-it-to-the-morning-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-no-chill-lyrics
+@ https://genius.com/Partynextdoor-no-chill-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-no-chill-lyrics
+# https://genius.com/Partynextdoor-no-chill-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-for-certain-lyrics
+@ https://genius.com/Partynextdoor-for-certain-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-for-certain-lyrics
+# https://genius.com/Partynextdoor-for-certain-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-cn-tower-lyrics
+@ https://genius.com/Partynextdoor-cn-tower-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-cn-tower-lyrics
+# https://genius.com/Partynextdoor-cn-tower-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-somebody-loves-me-lyrics
+@ https://genius.com/Partynextdoor-somebody-loves-me-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-somebody-loves-me-lyrics
+# https://genius.com/Partynextdoor-somebody-loves-me-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-die-trying-lyrics
+@ https://genius.com/Partynextdoor-die-trying-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-die-trying-lyrics
+# https://genius.com/Partynextdoor-die-trying-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-moth-balls-lyrics
+@ https://genius.com/Partynextdoor-moth-balls-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-moth-balls-lyrics
+# https://genius.com/Partynextdoor-moth-balls-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-something-about-you-lyrics
+@ https://genius.com/Partynextdoor-something-about-you-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-something-about-you-lyrics
+# https://genius.com/Partynextdoor-something-about-you-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-spider-man-superman-lyrics
+@ https://genius.com/Partynextdoor-spider-man-superman-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-spider-man-superman-lyrics
+# https://genius.com/Partynextdoor-spider-man-superman-lyrics
+# https://genius.com/Partynextdoor-deeper-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-pimmies-dilemma-lyrics
+@ https://genius.com/Partynextdoor-pimmies-dilemma-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-pimmies-dilemma-lyrics
+# https://genius.com/Partynextdoor-pimmies-dilemma-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-lasers-lyrics
+@ https://genius.com/Partynextdoor-lasers-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-lasers-lyrics
+# https://genius.com/Partynextdoor-lasers-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-meet-your-padre-lyrics
+@ https://genius.com/Partynextdoor-meet-your-padre-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-meet-your-padre-lyrics
+# https://genius.com/Partynextdoor-meet-your-padre-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-celibacy-lyrics
+@ https://genius.com/Partynextdoor-celibacy-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-celibacy-lyrics
+# https://genius.com/Partynextdoor-celibacy-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-omw-lyrics
+@ https://genius.com/Partynextdoor-omw-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-omw-lyrics
+# https://genius.com/Partynextdoor-omw-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-glorious-lyrics
+@ https://genius.com/Partynextdoor-glorious-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-glorious-lyrics
+# https://genius.com/Partynextdoor-glorious-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-when-hes-gone-lyrics
+@ https://genius.com/Partynextdoor-when-hes-gone-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-when-hes-gone-lyrics
+# https://genius.com/Partynextdoor-when-hes-gone-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-greedy-lyrics
+@ https://genius.com/Partynextdoor-greedy-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-greedy-lyrics
+# https://genius.com/Partynextdoor-greedy-lyrics
+============== singles
+# https://genius.com/Partynextdoor-over-here-lyrics
+# https://genius.com/Partynextdoor-sex-on-the-beach-lyrics
+# https://genius.com/Partynextdoor-like-dat-lyrics
+# https://genius.com/Partynextdoor-the-news-lyrics
+# https://genius.com/Partynextdoor-split-decision-lyrics
+# https://genius.com/Partynextdoor-believe-it-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-excitement-lyrics
+@ https://genius.com/Partynextdoor-excitement-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-excitement-lyrics
+# https://genius.com/Partynextdoor-excitement-lyrics
+# https://genius.com/Partynextdoor-her-old-friends-lyrics
+# https://genius.com/Partynextdoor-resentment-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-real-woman-lyrics
+@ https://genius.com/Partynextdoor-real-woman-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-real-woman-lyrics
+# https://genius.com/Partynextdoor-real-woman-lyrics
+# https://genius.com/Partynextdoor-lose-my-mind-lyrics
+# https://genius.com/Partynextdoor-dreamin-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-somebody-loves-me-lyrics
+@ https://genius.com/Partynextdoor-somebody-loves-me-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-somebody-loves-me-lyrics
+# https://genius.com/Partynextdoor-somebody-loves-me-lyrics
+Failed to retrieve the webpage. https://genius.com/Partynextdoor-die-trying-lyrics
+@ https://genius.com/Partynextdoor-die-trying-lyrics
+404 Client Error: Not Found for url: https://genius.com/Partynextdoor-die-trying-lyrics
+# https://genius.com/Partynextdoor-die-trying-lyrics
+============== i brought you my bullets, you brought me your love
+# https://genius.com/My-chemical-romance-romance-lyrics
+# https://genius.com/My-chemical-romance-honey-this-mirror-isnt-big-enough-for-the-two-of-us-lyrics
+# https://genius.com/My-chemical-romance-vampires-will-never-hurt-you-lyrics
+# https://genius.com/My-chemical-romance-drowning-lessons-lyrics
+# https://genius.com/My-chemical-romance-our-lady-of-sorrows-lyrics
+# https://genius.com/My-chemical-romance-headfirst-for-halos-lyrics
+# https://genius.com/My-chemical-romance-skylines-and-turnstiles-lyrics
+# https://genius.com/My-chemical-romance-early-sunsets-over-monroeville-lyrics
+# https://genius.com/My-chemical-romance-this-is-the-best-day-ever-lyrics
+# https://genius.com/My-chemical-romance-cubicles-lyrics
+# https://genius.com/My-chemical-romance-demolition-lovers-lyrics
+============== three cheers for sweet revenge
+# https://genius.com/My-chemical-romance-helena-lyrics
+# https://genius.com/My-chemical-romance-give-em-hell-kid-lyrics
+# https://genius.com/My-chemical-romance-to-the-end-lyrics
+# https://genius.com/My-chemical-romance-you-know-what-they-do-to-guys-like-us-in-prison-lyrics
+# https://genius.com/My-chemical-romance-im-not-okay-i-promise-lyrics
+# https://genius.com/My-chemical-romance-the-ghost-of-you-lyrics
+# https://genius.com/My-chemical-romance-the-jetset-life-is-gonna-kill-you-lyrics
+# https://genius.com/My-chemical-romance-interlude-lyrics
+# https://genius.com/My-chemical-romance-thank-you-for-the-venom-lyrics
+# https://genius.com/My-chemical-romance-hang-em-high-lyrics
+# https://genius.com/My-chemical-romance-its-not-a-fashion-statement-its-a-deathwish-lyrics
+# https://genius.com/My-chemical-romance-cemetery-drive-lyrics
+# https://genius.com/My-chemical-romance-i-never-told-you-what-i-do-for-a-living-lyrics
+============== the black parade
+# https://genius.com/My-chemical-romance-the-end-lyrics
+# https://genius.com/My-chemical-romance-dead-lyrics
+# https://genius.com/My-chemical-romance-this-is-how-i-disappear-lyrics
+# https://genius.com/My-chemical-romance-the-sharpest-lives-lyrics
+# https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics
+# https://genius.com/My-chemical-romance-i-dont-love-you-lyrics
+# https://genius.com/My-chemical-romance-house-of-wolves-lyrics
+# https://genius.com/My-chemical-romance-cancer-lyrics
+# https://genius.com/My-chemical-romance-mama-lyrics
+# https://genius.com/My-chemical-romance-sleep-lyrics
+# https://genius.com/My-chemical-romance-teenagers-lyrics
+# https://genius.com/My-chemical-romance-disenchanted-lyrics
+# https://genius.com/My-chemical-romance-famous-last-words-lyrics
+# https://genius.com/My-chemical-romance-blood-lyrics
+============== danger days: the true lives of the fabulous killjoys
+# https://genius.com/My-chemical-romance-look-alive-sunshine-lyrics
+# https://genius.com/My-chemical-romance-na-na-na-na-na-na-na-na-na-na-na-na-lyrics
+# https://genius.com/My-chemical-romance-bulletproof-heart-lyrics
+# https://genius.com/My-chemical-romance-sing-lyrics
+# https://genius.com/My-chemical-romance-planetary-go-lyrics
+# https://genius.com/My-chemical-romance-the-only-hope-for-me-is-you-lyrics
+Failed to retrieve the webpage. https://genius.com/My-chemical-romance-jet-star-and-the-kobra-kidtraffic-report-lyrics
+@ https://genius.com/My-chemical-romance-jet-star-and-the-kobra-kidtraffic-report-lyrics
+404 Client Error: Not Found for url: https://genius.com/My-chemical-romance-jet-star-and-the-kobra-kidtraffic-report-lyrics
+# https://genius.com/My-chemical-romance-jet-star-and-the-kobra-kidtraffic-report-lyrics
+# https://genius.com/My-chemical-romance-party-poison-lyrics
+# https://genius.com/My-chemical-romance-save-yourself-ill-hold-them-back-lyrics
+Failed to retrieve the webpage. https://genius.com/My-chemical-romance-scarecrow-lyrics
+@ https://genius.com/My-chemical-romance-scarecrow-lyrics
+404 Client Error: Not Found for url: https://genius.com/My-chemical-romance-scarecrow-lyrics
+# https://genius.com/My-chemical-romance-scarecrow-lyrics
+# https://genius.com/My-chemical-romance-summertime-lyrics
+# https://genius.com/My-chemical-romance-destroya-lyrics
+# https://genius.com/My-chemical-romance-the-kids-from-yesterday-lyrics
+# https://genius.com/My-chemical-romance-goodnite-dr-death-lyrics
+# https://genius.com/My-chemical-romance-vampire-money-lyrics
+============== conventional weapons
+# https://genius.com/My-chemical-romance-boy-division-lyrics
+# https://genius.com/My-chemical-romance-tomorrows-money-lyrics
+# https://genius.com/My-chemical-romance-ambulance-lyrics
+# https://genius.com/My-chemical-romance-gun-lyrics
+# https://genius.com/My-chemical-romance-the-world-is-ugly-lyrics
+# https://genius.com/My-chemical-romance-the-light-behind-your-eyes-lyrics
+# https://genius.com/My-chemical-romance-kiss-the-ring-lyrics
+# https://genius.com/My-chemical-romance-make-room-lyrics
+# https://genius.com/My-chemical-romance-surrender-the-night-lyrics
+# https://genius.com/My-chemical-romance-burn-bright-lyrics
+============== singles
+# https://genius.com/My-chemical-romance-desolation-row-lyrics
+# https://genius.com/My-chemical-romance-fake-your-death-lyrics
+# https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics
+============== hozier
+# https://genius.com/Hozier-take-me-to-church-lyrics
+# https://genius.com/Hozier-angel-of-small-death-and-the-codeine-scene-lyrics
+# https://genius.com/Hozier-jackie-and-wilson-lyrics
+# https://genius.com/Hozier-someone-new-lyrics
+# https://genius.com/Hozier-to-be-alone-lyrics
+# https://genius.com/Hozier-from-eden-lyrics
+# https://genius.com/Hozier-in-a-week-lyrics
+# https://genius.com/Hozier-sedated-lyrics
+# https://genius.com/Hozier-work-song-lyrics
+# https://genius.com/Hozier-like-real-people-do-lyrics
+# https://genius.com/Hozier-it-will-come-back-lyrics
+# https://genius.com/Hozier-foreigners-god-lyrics
+# https://genius.com/Hozier-cherry-wine-lyrics
+============== wasteland, baby!
+# https://genius.com/Hozier-nina-cried-power-lyrics
+# https://genius.com/Hozier-almost-sweet-music-lyrics
+# https://genius.com/Hozier-movement-lyrics
+# https://genius.com/Hozier-no-plan-lyrics
+# https://genius.com/Hozier-nobody-lyrics
+# https://genius.com/Hozier-to-noise-making-sing-lyrics
+# https://genius.com/Hozier-as-it-was-lyrics
+# https://genius.com/Hozier-shrike-lyrics
+# https://genius.com/Hozier-talk-lyrics
+# https://genius.com/Hozier-be-lyrics
+# https://genius.com/Hozier-dinner-and-diatribes-lyrics
+# https://genius.com/Hozier-would-that-i-lyrics
+# https://genius.com/Hozier-sunlight-lyrics
+# https://genius.com/Hozier-wasteland-baby-lyrics
+============== unreal unearth
+# https://genius.com/Hozier-de-selby-part-1-lyrics
+# https://genius.com/Hozier-de-selby-part-2-lyrics
+# https://genius.com/Hozier-first-time-lyrics
+# https://genius.com/Hozier-francesca-lyrics
+# https://genius.com/Hozier-i-carrion-icarian-lyrics
+# https://genius.com/Hozier-eat-your-young-lyrics
+# https://genius.com/Hozier-damage-gets-done-lyrics
+# https://genius.com/Hozier-who-we-are-lyrics
+# https://genius.com/Hozier-son-of-nyx-lyrics
+# https://genius.com/Hozier-all-things-end-lyrics
+Failed to retrieve the webpage. https://genius.com/Hozier-to-someone-from-a-warm-climate-uiscefhuaraithe-lyrics
+@ https://genius.com/Hozier-to-someone-from-a-warm-climate-uiscefhuaraithe-lyrics
+404 Client Error: Not Found for url: https://genius.com/Hozier-to-someone-from-a-warm-climate-uiscefhuaraithe-lyrics
+# https://genius.com/Hozier-to-someone-from-a-warm-climate-uiscefhuaraithe-lyrics
+# https://genius.com/Hozier-butchered-tongue-lyrics
+# https://genius.com/Hozier-anything-but-lyrics
+# https://genius.com/Hozier-abstract-psychopomp-lyrics
+Failed to retrieve the webpage. https://genius.com/Hozier-unknown--nth-lyrics
+@ https://genius.com/Hozier-unknown--nth-lyrics
+404 Client Error: Not Found for url: https://genius.com/Hozier-unknown--nth-lyrics
+# https://genius.com/Hozier-unknown--nth-lyrics
+# https://genius.com/Hozier-first-light-lyrics
+============== singles
+# https://genius.com/Hozier-take-me-to-church-lyrics
+# https://genius.com/Hozier-from-eden-lyrics
+# https://genius.com/Hozier-sedated-lyrics
+# https://genius.com/Hozier-work-song-lyrics
+# https://genius.com/Hozier-someone-new-lyrics
+# https://genius.com/Hozier-jackie-and-wilson-lyrics
+# https://genius.com/Hozier-cherry-wine-lyrics
+# https://genius.com/Hozier-better-love-lyrics
+# https://genius.com/Hozier-nina-cried-power-lyrics
+# https://genius.com/Hozier-movement-lyrics
+# https://genius.com/Hozier-almost-sweet-music-lyrics
+# https://genius.com/Hozier-dinner-and-diatribes-lyrics
+Failed to retrieve the webpage. https://genius.com/Hozier-the-bones-lyrics
+@ https://genius.com/Hozier-the-bones-lyrics
+404 Client Error: Not Found for url: https://genius.com/Hozier-the-bones-lyrics
+# https://genius.com/Hozier-the-bones-lyrics
+Failed to retrieve the webpage. https://genius.com/Hozier-the-parting-glass-lyrics
+@ https://genius.com/Hozier-the-parting-glass-lyrics
+404 Client Error: Not Found for url: https://genius.com/Hozier-the-parting-glass-lyrics
+# https://genius.com/Hozier-the-parting-glass-lyrics
+# https://genius.com/Hozier-swan-upon-leda-lyrics
+# https://genius.com/Hozier-eat-your-young-lyrics
+# https://genius.com/Hozier-francesca-lyrics
+Failed to retrieve the webpage. https://genius.com/Hozier-unknown--nth-lyrics
+@ https://genius.com/Hozier-unknown--nth-lyrics
+404 Client Error: Not Found for url: https://genius.com/Hozier-unknown--nth-lyrics
+# https://genius.com/Hozier-unknown--nth-lyrics
+# https://genius.com/Hozier-de-selby-part-2-lyrics
+Failed to retrieve the webpage. https://genius.com/Hozier-northern-attitude-lyrics
+@ https://genius.com/Hozier-northern-attitude-lyrics
+404 Client Error: Not Found for url: https://genius.com/Hozier-northern-attitude-lyrics
+# https://genius.com/Hozier-northern-attitude-lyrics
+# https://genius.com/Hozier-too-sweet-lyrics
+# https://genius.com/Hozier-nobodys-soldier-lyrics
+# https://genius.com/Hozier-hymn-to-virgil-lyrics
+Failed to retrieve the webpage. https://genius.com/Hozier-the-first-time-ever-i-saw-your-face-lyrics
+@ https://genius.com/Hozier-the-first-time-ever-i-saw-your-face-lyrics
+404 Client Error: Not Found for url: https://genius.com/Hozier-the-first-time-ever-i-saw-your-face-lyrics
+# https://genius.com/Hozier-the-first-time-ever-i-saw-your-face-lyrics
+Failed to retrieve the webpage. https://genius.com/Hozier-rubber-band-man-lyrics
+@ https://genius.com/Hozier-rubber-band-man-lyrics
+404 Client Error: Not Found for url: https://genius.com/Hozier-rubber-band-man-lyrics
+# https://genius.com/Hozier-rubber-band-man-lyrics
+============== busyhead
+# https://genius.com/Noah-kahan-false-confidence-lyrics
+# https://genius.com/Noah-kahan-mess-lyrics
+# https://genius.com/Noah-kahan-young-blood-lyrics
+# https://genius.com/Noah-kahan-busyhead-lyrics
+# https://genius.com/Noah-kahan-cynic-lyrics
+# https://genius.com/Noah-kahan-tidal-lyrics
+# https://genius.com/Noah-kahan-carlos-song-lyrics
+# https://genius.com/Noah-kahan-save-me-lyrics
+# https://genius.com/Noah-kahan-sink-lyrics
+# https://genius.com/Noah-kahan-come-down-lyrics
+============== i was / i am
+# https://genius.com/Noah-kahan-part-of-me-lyrics
+# https://genius.com/Noah-kahan-animal-lyrics
+# https://genius.com/Noah-kahan-caves-lyrics
+# https://genius.com/Noah-kahan-bad-luck-lyrics
+# https://genius.com/Noah-kahan-godlight-lyrics
+# https://genius.com/Noah-kahan-someone-like-you-lyrics
+# https://genius.com/Noah-kahan-fear-of-water-lyrics
+# https://genius.com/Noah-kahan-hollow-lyrics
+# https://genius.com/Noah-kahan-bury-me-lyrics
+Failed to retrieve the webpage. https://genius.com/Noah-kahan-howling-at-nothing-lyrics
+@ https://genius.com/Noah-kahan-howling-at-nothing-lyrics
+404 Client Error: Not Found for url: https://genius.com/Noah-kahan-howling-at-nothing-lyrics
+# https://genius.com/Noah-kahan-howling-at-nothing-lyrics
+============== stick season
+# https://genius.com/Noah-kahan-northern-attitude-lyrics
+# https://genius.com/Noah-kahan-stick-season-lyrics
+# https://genius.com/Noah-kahan-all-my-love-lyrics
+# https://genius.com/Noah-kahan-she-calls-me-back-lyrics
+# https://genius.com/Noah-kahan-come-over-lyrics
+# https://genius.com/Noah-kahan-new-perspective-lyrics
+# https://genius.com/Noah-kahan-everywhere-everything-lyrics
+# https://genius.com/Noah-kahan-orange-juice-lyrics
+# https://genius.com/Noah-kahan-strawberry-wine-lyrics
+# https://genius.com/Noah-kahan-growing-sideways-lyrics
+# https://genius.com/Noah-kahan-halloween-lyrics
+# https://genius.com/Noah-kahan-homesick-lyrics
+# https://genius.com/Noah-kahan-still-lyrics
+# https://genius.com/Noah-kahan-the-view-between-villages-lyrics
+============== cape elizabeth
+# https://genius.com/Noah-kahan-a-troubled-mind-lyrics
+# https://genius.com/Noah-kahan-close-behind-lyrics
+# https://genius.com/Noah-kahan-glue-myself-shut-lyrics
+# https://genius.com/Noah-kahan-anyway-lyrics
+# https://genius.com/Noah-kahan-maine-lyrics
+============== live from fenway park
+# https://genius.com/Noah-kahan-pain-is-cold-water-lyrics
+============== the great divide
+# https://genius.com/Noah-kahan-the-great-divide-lyrics
+============== singles
+# https://genius.com/Noah-kahan-young-blood-lyrics
+# https://genius.com/Noah-kahan-hurt-somebody-lyrics
+# https://genius.com/Noah-kahan-come-down-lyrics
+# https://genius.com/Noah-kahan-false-confidence-lyrics
+# https://genius.com/Noah-kahan-mess-lyrics
+# https://genius.com/Noah-kahan-cynic-lyrics
+# https://genius.com/Noah-kahan-godlight-lyrics
+# https://genius.com/Noah-kahan-animal-lyrics
+# https://genius.com/Noah-kahan-someone-like-you-lyrics
+# https://genius.com/Noah-kahan-stick-season-lyrics
+# https://genius.com/Noah-kahan-northern-attitude-lyrics
+# https://genius.com/Noah-kahan-all-my-love-lyrics
+# https://genius.com/Noah-kahan-come-over-lyrics
+# https://genius.com/Noah-kahan-new-perspective-lyrics
+# https://genius.com/Noah-kahan-orange-juice-lyrics
+# https://genius.com/Noah-kahan-strawberry-wine-lyrics
+# https://genius.com/Noah-kahan-the-view-between-villages-lyrics
+# https://genius.com/Noah-kahan-homesick-lyrics
+# https://genius.com/Noah-kahan-growing-sideways-lyrics
+# https://genius.com/Noah-kahan-halloween-lyrics
+# https://genius.com/Noah-kahan-still-lyrics
+# https://genius.com/Noah-kahan-maine-lyrics
+# https://genius.com/Noah-kahan-pain-is-cold-water-lyrics
+Failed to retrieve the webpage. https://genius.com/Noah-kahan-crazier-things-lyrics
+@ https://genius.com/Noah-kahan-crazier-things-lyrics
+404 Client Error: Not Found for url: https://genius.com/Noah-kahan-crazier-things-lyrics
+# https://genius.com/Noah-kahan-crazier-things-lyrics
+# https://genius.com/Noah-kahan-pride-lyrics
+Failed to retrieve the webpage. https://genius.com/Noah-kahan-were-all-gonna-die-lyrics
+@ https://genius.com/Noah-kahan-were-all-gonna-die-lyrics
+404 Client Error: Not Found for url: https://genius.com/Noah-kahan-were-all-gonna-die-lyrics
+# https://genius.com/Noah-kahan-were-all-gonna-die-lyrics
+# https://genius.com/Noah-kahan-dial-drunk-lyrics
+# https://genius.com/Noah-kahan-call-your-mom-lyrics
+# https://genius.com/Noah-kahan-she-calls-me-back-lyrics
+# https://genius.com/Noah-kahan-everywhere-everything-lyrics
+# https://genius.com/Noah-kahan-forever-lyrics
+Failed to retrieve the webpage. https://genius.com/Noah-kahan-cowboys-cry-too-lyrics
+@ https://genius.com/Noah-kahan-cowboys-cry-too-lyrics
+404 Client Error: Not Found for url: https://genius.com/Noah-kahan-cowboys-cry-too-lyrics
+# https://genius.com/Noah-kahan-cowboys-cry-too-lyrics
+Failed to retrieve the webpage. https://genius.com/Noah-kahan-up-all-night-lyrics
+@ https://genius.com/Noah-kahan-up-all-night-lyrics
+404 Client Error: Not Found for url: https://genius.com/Noah-kahan-up-all-night-lyrics
+# https://genius.com/Noah-kahan-up-all-night-lyrics
+# https://genius.com/Noah-kahan-the-great-divide-lyrics@ https://genius.com/Arctic-monkeys-matador--da-frame-2r-lyrics
+@ https://genius.com/Drake-cameras--good-ones-go-interlude-lyrics
+@ https://genius.com/Drake-pound-cake--paris-morton-music-2-lyrics
+@ https://genius.com/Drake-rich-flex-lyrics
+@ https://genius.com/Drake-major-distribution-lyrics
+@ https://genius.com/Drake-on-bs-lyrics
+@ https://genius.com/Drake-privileged-rappers-lyrics
+@ https://genius.com/Drake-spin-bout-u-lyrics
+@ https://genius.com/Drake-hours-in-silence-lyrics
+@ https://genius.com/Drake-treacherous-twins-lyrics
+@ https://genius.com/Drake-pussy-and-millions-lyrics
+@ https://genius.com/Drake-broke-boys-lyrics
+@ https://genius.com/Drake-more-ms-lyrics
+@ https://genius.com/Drake-3am-on-glenwood-lyrics
+@ https://genius.com/Drake-somebody-loves-me-lyrics
+@ https://genius.com/Drake-die-trying-lyrics
+@ https://genius.com/Drake-m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g-lyrics
+@ https://genius.com/Drake-n-o-c-h-i-l-l-lyrics
+@ https://genius.com/Drake-her-old-friends-lyrics
+@ https://genius.com/Drake-resentment-lyrics
+@ https://genius.com/Drake-real-woman-lyrics
+@ https://genius.com/Drake-lose-my-mind-lyrics
+@ https://genius.com/Drake-dreamin-lyrics
+@ https://genius.com/Drake-control-lyrics
+@ https://genius.com/Drake-cheers-lyrics
+@ https://genius.com/Drake-for-certain-lyrics
+@ https://genius.com/Drake-something-about-you-lyrics
+@ https://genius.com/Drake-spider-man-superman-lyrics
+@ https://genius.com/Drake-deeper-lyrics
+@ https://genius.com/Drake-meet-your-padre-lyrics
+@ https://genius.com/Drake-celibacy-lyrics
+@ https://genius.com/Drake-omw-lyrics
+@ https://genius.com/Drake-glorious-lyrics
+@ https://genius.com/Drake-when-hes-gone-lyrics
+@ https://genius.com/Partynextdoor-wus-good--curious-lyrics
+@ https://genius.com/Partynextdoor-wus-goodcurious-lyrics
+@ https://genius.com/Partynextdoor-pgt-remix-lyrics
+@ https://genius.com/Partynextdoor-control-lyrics
+@ https://genius.com/Partynextdoor-cheers-lyrics
+@ https://genius.com/Partynextdoor-make-it-to-the-morning-lyrics
+@ https://genius.com/Partynextdoor-no-chill-lyrics
+@ https://genius.com/Partynextdoor-the-retreat-lyrics
+@ https://genius.com/Partynextdoor-family-lyrics
+@ https://genius.com/Partynextdoor-real-woman-lyrics
+@ https://genius.com/Partynextdoor-l-o-s-e-m-y-m-i-n-d-remix-lyrics
+@ https://genius.com/Partynextdoor-sorry-but-not-sorry-lyrics
+@ https://genius.com/Partynextdoor-for-certain-lyrics
+@ https://genius.com/Partynextdoor-stamina-lyrics
+@ https://genius.com/Partynextdoor-real-woman-lyrics
+@ https://genius.com/Partynextdoor-control-lyrics
+@ https://genius.com/Partynextdoor-cheers-lyrics
+@ https://genius.com/Partynextdoor-make-it-to-the-morning-lyrics
+@ https://genius.com/Partynextdoor-no-chill-lyrics
+@ https://genius.com/Partynextdoor-for-certain-lyrics
+@ https://genius.com/Partynextdoor-cn-tower-lyrics
+@ https://genius.com/Partynextdoor-somebody-loves-me-lyrics
+@ https://genius.com/Partynextdoor-die-trying-lyrics
+@ https://genius.com/Partynextdoor-moth-balls-lyrics
+@ https://genius.com/Partynextdoor-something-about-you-lyrics
+@ https://genius.com/Partynextdoor-spider-man-superman-lyrics
+@ https://genius.com/Partynextdoor-pimmies-dilemma-lyrics
+@ https://genius.com/Partynextdoor-lasers-lyrics
+@ https://genius.com/Partynextdoor-meet-your-padre-lyrics
+@ https://genius.com/Partynextdoor-celibacy-lyrics
+@ https://genius.com/Partynextdoor-omw-lyrics
+@ https://genius.com/Partynextdoor-glorious-lyrics
+@ https://genius.com/Partynextdoor-when-hes-gone-lyrics
+@ https://genius.com/Partynextdoor-greedy-lyrics
+@ https://genius.com/Partynextdoor-excitement-lyrics
+@ https://genius.com/Partynextdoor-real-woman-lyrics
+@ https://genius.com/Partynextdoor-somebody-loves-me-lyrics
+@ https://genius.com/Partynextdoor-die-trying-lyrics
+@ https://genius.com/My-chemical-romance-jet-star-and-the-kobra-kidtraffic-report-lyrics
+@ https://genius.com/My-chemical-romance-scarecrow-lyrics
+@ https://genius.com/Hozier-to-someone-from-a-warm-climate-uiscefhuaraithe-lyrics
+@ https://genius.com/Hozier-unknown--nth-lyrics
+@ https://genius.com/Hozier-the-bones-lyrics
+@ https://genius.com/Hozier-the-parting-glass-lyrics
+@ https://genius.com/Hozier-unknown--nth-lyrics
+@ https://genius.com/Hozier-northern-attitude-lyrics
+@ https://genius.com/Hozier-the-first-time-ever-i-saw-your-face-lyrics
+@ https://genius.com/Hozier-rubber-band-man-lyrics
+@ https://genius.com/Noah-kahan-howling-at-nothing-lyrics
+@ https://genius.com/Noah-kahan-crazier-things-lyrics
+@ https://genius.com/Noah-kahan-were-all-gonna-die-lyrics
+@ https://genius.com/Noah-kahan-cowboys-cry-too-lyrics
+@ https://genius.com/Noah-kahan-up-all-night-lyrics
